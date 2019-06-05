@@ -1,0 +1,9 @@
+build/
+build-test/
+xcuserdata/
+.idea/
+*.xccheckout
+*.gcno
+*.gcda
+
+vendor/bundle
