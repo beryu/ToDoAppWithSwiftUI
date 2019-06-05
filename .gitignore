@@ -1,9 +1,11 @@
 build/
 build-test/
+Pods/
 xcuserdata/
 .idea/
 *.xccheckout
 *.gcno
 *.gcda
+opencv2.framework/
 
 vendor/bundle
